@@ -1,0 +1,89 @@
+---> ACCOUNT INFORMATION <---
+
+
+> Account Type
+	>> Checking Account
+> Account Number
+	>> 12345678
+> Account Username
+	>> nila
+> Account PIN
+	>> 7454
+> Account Balance
+	>> ₱743.00
+> Recent Account Access
+	>> Friday, 21 January 2022 - 5:31 P.M.
+
+
+---> PERSONAL INFORMATION <---
+
+
+> First Name
+	>> Nommel Isanar
+> Middle Name
+	>> Lavapie
+> Last Name
+	>> Amolat
+> Sex
+	>> Male
+> Birthdate
+	>> October 2, 1999
+> Mobile Number
+	>> 09984626403
+
+
+---> TRANSACTION LOG <---
+
+
+> Log Entry # 1
+	>> 2019-05-08 (7:37 P.M.) - ₱5000.00 has been deposited into the account.
+> Log Entry # 2
+	>> 2019-05-08 (7:40 P.M.) - ₱123.00 has been withdrawn from the account.
+> Log Entry # 3
+	>> 2019-05-08 (7:41 P.M.) - ₱234.00 has been withdrawn from the account.
+> Log Entry # 4
+	>> 2019-05-08 (7:45 P.M.) - ₱213.00 has been withdrawn from the account.
+> Log Entry # 5
+	>> 2019-05-11 (5:29 P.M.) - ₱123.00 has been withdrawn from the account.
+> Log Entry # 6
+	>> 2019-05-11 (5:29 P.M.) - ₱123.00 has been withdrawn from the account.
+> Log Entry # 7
+	>> 2019-05-11 (5:29 P.M.) - ₱4184.00 has been withdrawn from the account.
+> Log Entry # 8
+	>> 2019-05-11 (5:29 P.M.) - ₱2134.00 has been deposited into the account.
+> Log Entry # 9
+	>> 2019-05-11 (5:29 P.M.) - ₱123.00 has been deposited into the account.
+> Log Entry # 10
+	>> 2019-05-11 (5:29 P.M.) - ₱123.00 has been deposited into the account.
+> Log Entry # 11
+	>> 2019-05-11 (5:29 P.M.) - ₱234.00 has been deposited into the account.
+> Log Entry # 12
+	>> 2019-05-11 (5:29 P.M.) - ₱123.00 has been deposited into the account.
+> Log Entry # 13
+	>> 2019-05-11 (5:29 P.M.) - ₱123.00 has been withdrawn from the account.
+> Log Entry # 14
+	>> 2019-05-11 (5:29 P.M.) - ₱324.00 has been deposited into the account.
+> Log Entry # 15
+	>> 2019-05-11 (5:29 P.M.) - ₱213.00 has been withdrawn from the account.
+> Log Entry # 16
+	>> 2019-05-11 (5:29 P.M.) - ₱423.00 has been deposited into the account.
+> Log Entry # 17
+	>> 2019-05-11 (5:29 P.M.) - ₱123.00 has been withdrawn from the account.
+> Log Entry # 18
+	>> 2019-05-11 (5:29 P.M.) - ₱321.00 has been withdrawn from the account.
+> Log Entry # 19
+	>> 2019-05-11 (5:29 P.M.) - ₱232.00 has been withdrawn from the account.
+> Log Entry # 20
+	>> 2019-05-11 (5:29 P.M.) - ₱1243.00 has been withdrawn from the account.
+> Log Entry # 21
+	>> 2019-05-11 (5:30 P.M.) - ₱123.00 has been withdrawn from the account.
+> Log Entry # 22
+	>> 2019-05-11 (5:30 P.M.) - ₱1101.00 has been withdrawn from the account.
+> Log Entry # 23
+	>> 2019-05-11 (5:30 P.M.) - ₱324.00 has been deposited into the account.
+> Log Entry # 24
+	>> 2019-05-11 (5:30 P.M.) - ₱213.00 has been deposited into the account.
+> Log Entry # 25
+	>> 2019-05-11 (5:30 P.M.) - ₱123.00 has been withdrawn from the account.
+> Log Entry # 26
+	>> 2019-05-11 (5:30 P.M.) - ₱324.00 has been deposited into the account.
